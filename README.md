@@ -1,27 +1,27 @@
-# Java DSA 🚀
+🚀 Java DSA
 
-This repository contains my Data Structures and Algorithms practice in Java.
+Welcome to my Java Data Structures and Algorithms repository.
 
-I am building this repository to document my problem-solving journey through consistent practice on platforms like Codeforces and LeetCode.
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems solved in Java. It serves as a record of my learning journey, where I practice coding problems, explore different algorithms, and improve my problem-solving skills through consistent practice.
 
-## Topics
-
-### Currently Learning
-- Arrays
-
-### Upcoming Topics
-- Strings
-- Searching
-- Sorting
-- Recursion
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-
-## Practice Platforms
-
-- Codeforces
-- LeetCode
+📚 Topics
+Arrays
+Strings
+Searching
+Sorting
+Recursion & Backtracking
+Linked List
+Stack
+Queue
+Hashing
+Two Pointers
+Sliding Window
+Binary Search
+Trees
+Graphs
+Dynamic Programming
+Greedy Algorithms
+Bit Manipulation
+💻 Practice Platforms
+Codeforces
+LeetCode
